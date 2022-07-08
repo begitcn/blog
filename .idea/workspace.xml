@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3796cf7-1736-4dbb-a083-7b713a77e74b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/meme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/categories/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/posts/Jenkins.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/posts/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ChineseZodiac.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/SVG.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Socials.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/about/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/about/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/main.scss_a059ebc49e8302e6cfbf0e02020b9d85.content" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/main.scss_a059ebc49e8302e6cfbf0e02020b9d85.content" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/main.scss_a059ebc49e8302e6cfbf0e02020b9d85.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/main.scss_a059ebc49e8302e6cfbf0e02020b9d85.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +39,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/content/posts" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/posts" />
+      <recent name="$PROJECT_DIR$/content/categories" />
+      <recent name="$PROJECT_DIR$/data" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -41,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657250505442</updated>
-      <workItem from="1657250506702" duration="2861000" />
+      <workItem from="1657250506702" duration="7224000" />
     </task>
     <task id="LOCAL-00001" summary="主题">
       <created>1657250607651</created>
@@ -71,7 +88,21 @@
       <option name="project" value="LOCAL" />
       <updated>1657259320565</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="初始化博客">
+      <created>1657260974665</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1657260974665</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update">
+      <created>1657261048232</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1657261048232</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +123,8 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="主题" />
     <MESSAGE value="修改配置" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改配置" />
+    <MESSAGE value="初始化博客" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
